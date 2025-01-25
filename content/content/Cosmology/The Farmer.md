@@ -1,4 +1,0 @@
----
-cssclasses:
-  - Folder-4
----

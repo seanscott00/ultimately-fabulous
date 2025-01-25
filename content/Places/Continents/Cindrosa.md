@@ -1,1 +1,0 @@
-![[Cindrosa.jpg]]

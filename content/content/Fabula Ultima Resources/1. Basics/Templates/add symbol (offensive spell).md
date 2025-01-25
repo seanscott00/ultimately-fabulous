@@ -1,1 +1,0 @@
-<span class='fu-off'></span>

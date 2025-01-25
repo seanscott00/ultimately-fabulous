@@ -1,1 +1,0 @@
-![[Exdosa.jpg]]
