@@ -1,1 +1,0 @@
-![[Vanta.jpg|Vanta.jpg]]
