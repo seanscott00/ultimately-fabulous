@@ -52,7 +52,9 @@ cssclasses:
 > ## About
 
 
-About
+When my character was a very very young child in a small village in the far north of the north side of the now-split continent, Beanie got extremely sick and died (I’m thinking she was like 4) bc the country is not very advanced and medical care is hard to come by. Beanie crossed over and Death took mercy on Beanie and sent her back across the divide. From this, Beanie got a much kinder and warmer impression of death than your average person. She also seemed to retain the ability to connect to spirits, especially those terrified of death, and could soothe them. 
+
+When she got older, she heard that Death lived in the Druidic wildlands just north of her home. Those people meant it metaphorically but Beanie took it to heart and went into those wildlands determined to find and thank Death. She continued to travel to towns dealing with hauntings, helping distressed spirits find peace and cross over.
 
 
 > [!Warning] Noteworthy Capabilities
