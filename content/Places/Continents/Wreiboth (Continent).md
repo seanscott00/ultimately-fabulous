@@ -1,0 +1,1 @@
+![[Crystal Wastes.jpg|Crystal Wastes.jpg]]
