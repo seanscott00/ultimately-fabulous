@@ -16,7 +16,7 @@ Monarch: monarch
 
 # Wreiboth
 
-**Wreiboth** is both the name of the kingdom and the continent that is inhabited.
+**Wreiboth** is both the name of the kingdom and the [[Wreiboth (Continent)|continent]] that it inhabited.
 
 ## Geography
 
@@ -39,4 +39,4 @@ The Wreiborn people settled in the shadow of the mercantile city-state of Ventus
 
 ## SocioEconomics
 
-Wreiboth is ruled by a hereditary monarchy.
+Wreiboth is ruled by a hereditary monarchy. The current King is Eidric, son of the former King, and is currently living in exile, with the rest of his people, in and around Venta.
